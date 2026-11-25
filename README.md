@@ -1,2 +1,2 @@
-# workshop_webdev_26
+# BI-Development-Workshop
 been on a workshop and did this 
